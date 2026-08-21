@@ -1,6 +1,6 @@
-export const RESUME_PDF = "/Rishabh_Bhardwaj_resume.pdf";
-export const PHOTO = "/photo.jpg";
+export const RESUME_PDF = `${import.meta.env.BASE_URL}Rishabh_Bhardwaj_resume.pdf`;
 
+export const PHOTO = `${import.meta.env.BASE_URL}photo.jpg`;
 export const NAV_LINKS = [
   { id: "about", label: "About" },
   { id: "experience", label: "Experience" },
