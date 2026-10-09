@@ -72,7 +72,7 @@ export const SKILLS = [
 ];
 
 export const EDUCATION = [
-  { school: "Chandigarh University", place: "Chandigarh", degree: "Bachelor of Engineering — CSE", period: "Aug 2022 — 2026", metric: "81.90%" },
+  { school: "Chandigarh University", place: "Chandigarh", degree: "Bachelor of Engineering — CSE", period: "Aug 2022 — 2026", metric: "82.50%" },
   { school: "S.K.D. Academy", place: "Lucknow", degree: "Intermediate", period: "2021 — 2022", metric: "93.20%" },
   { school: "S.K.D. Academy", place: "Lucknow", degree: "Matriculation", period: "2019 — 2020", metric: "89.33%" },
 ];
